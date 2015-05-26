@@ -1,0 +1,21 @@
+/*#centreImg{
+	width: 100%
+}*/
+* {
+	 font-family: ‘Metrophobic’, Arial, serif; font-weight: 700; 
+}
+.container {
+	padding-top: 10px;
+}
+
+
+.container h1{
+	font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; 
+}
+
+.col-md-4{
+	margin-right: calc((100%-350px)/3px);
+}
+.col-md-4:last-of-type{
+	margin-right: 0px;
+}
